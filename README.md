@@ -44,13 +44,8 @@ Visualizations:
 > Line plots illustrating the growth trends over the years.
 > Clustered bar plots comparing 2-Wheelers and 4-Wheelers EV sales across different states.
 
-Contributing
+Contributing: 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-Fork the repository.
-Create your feature branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Create a new Pull Request.
 License
 This project is licensed under the MIT License 
